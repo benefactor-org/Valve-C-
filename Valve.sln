@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30320.27
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Valve", "Valve\Valve.csproj", "{5252F506-E1BC-4262-8B12-B86A39F0F1B6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ValveLibraryTest", "ValveLibraryTest\ValveLibraryTest.csproj", "{F82F205A-F858-4475-9056-A27D32A36DEC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5252F506-E1BC-4262-8B12-B86A39F0F1B6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5252F506-E1BC-4262-8B12-B86A39F0F1B6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5252F506-E1BC-4262-8B12-B86A39F0F1B6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5252F506-E1BC-4262-8B12-B86A39F0F1B6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F82F205A-F858-4475-9056-A27D32A36DEC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F82F205A-F858-4475-9056-A27D32A36DEC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F82F205A-F858-4475-9056-A27D32A36DEC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F82F205A-F858-4475-9056-A27D32A36DEC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {96CDFB5A-FC41-4F34-9661-53ECA39AA584}
+	EndGlobalSection
+EndGlobal
