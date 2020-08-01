@@ -2,6 +2,20 @@
 
   <PropertyGroup>
     <TargetFramework>netcoreapp3.1</TargetFramework>
+    <Authors>Benefactor Org</Authors>
+    <Description>A C# library for performing sampling on an identifier. For instance, enabling a feature for only x% of users.</Description>
+    <PackageLicenseExpression>GPL-3.0-only</PackageLicenseExpression>
+    <PackageIcon>valve-logo.png</PackageIcon>
+    <RepositoryUrl>https://github.com/benefactor-org/valve-dotnet-core</RepositoryUrl>
+    <PackageTags>testing feature, sampling, ab test, testing, percentage testing</PackageTags>
+    <PackageReleaseNotes>First version 1.0.0</PackageReleaseNotes>
   </PropertyGroup>
+
+  <ItemGroup>
+    <None Include="..\valve-logo.png">
+      <Pack>True</Pack>
+      <PackagePath></PackagePath>
+    </None>
+  </ItemGroup>
 
 </Project>
