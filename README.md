@@ -14,7 +14,7 @@ Valve is a simple to integrate sampling and code flow control library, which can
 ## Documentation
 
 ```
-   String identifier = "unique_identifier_like_user_id" // unique identifier per sample like user_id 
+   String identifier = "useremail@email.com" // unique identifier per sample like user_id 
    int percentEnabled = 20; // percentage for which feature should be enabled
 
    if (Valve.Valve.Control(identifier, percentEnabled)) 
