@@ -1,4 +1,4 @@
-![Valve Logo](https://github.com/benefactor-org/valve-dotnet-core/blob/master/valve-logo.png =100x100)
+<img height="100px" width="100px" src="https://github.com/benefactor-org/valve-dotnet-core/blob/master/valve-logo.png">
 
 # Valve[C#]: Sampling and feature release control for better customer experience.
 
