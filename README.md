@@ -65,5 +65,5 @@ limitations under the License.
 
 [nuget img]:https://img.shields.io/nuget/v/valve
 [nuget]:https://www.nuget.org/packages/Valve/
-[license]:LICENSE-2.0.txt
+[license]:LICENSE
 [license img]:https://img.shields.io/github/license/benefactor-org/valve
