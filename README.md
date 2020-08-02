@@ -2,7 +2,7 @@
 
 # Valve[C#]: Sampling and feature release control for better customer experience.
 
-![Nuget](https://img.shields.io/nuget/v/valve)
+[![][nuget img]][nuget]
 [![][license img]][license]
 
 ### [NuGet Package](https://www.nuget.org/packages/Valve/)
@@ -63,5 +63,7 @@ WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
 See the License for the specific language governing permissions and
 limitations under the License.
 
+[nuget img]:https://img.shields.io/nuget/v/valve
+[nuget]:https://www.nuget.org/packages/Valve/
 [license]:LICENSE-2.0.txt
 [license img]:https://img.shields.io/github/license/benefactor-org/valve
