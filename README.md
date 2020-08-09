@@ -26,7 +26,18 @@ Valve is a simple to integrate sampling and code flow control library, which can
        Console.WriteLine("Fearure is not available for this identifier.");
    }
 ```
+## Sample Tests
 
+The below data is the result of 10 random tests for different data sizes.
+
+### Data size 100
+![Data Size 100](https://github.com/benefactor-org/valve-dotnet-core/blob/master/DataPoint_100.PNG)
+### Data Size 1000
+![Data Size 1000](https://github.com/benefactor-org/valve-dotnet-core/blob/master/DataPoint_1000.PNG)
+### Data Size 5000
+![Data Size 5000](https://github.com/benefactor-org/valve-dotnet-core/blob/master/DataPoint_5000.PNG)
+
+From above three charts we can analyze that when data size is growing, the release percenatge is more close to the target percentage.
 
 ## Communication
 
