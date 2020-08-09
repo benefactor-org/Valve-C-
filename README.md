@@ -28,7 +28,7 @@ Valve is a simple to integrate sampling and code flow control library, which can
 ```
 ## Sample Tests
 
-The below data is the result of 10 random tests for different data sizes.
+The below charts are the result of 10 random tests for different data sizes.
 
 ### Data size 100
 ![Data Size 100](https://github.com/benefactor-org/valve-dotnet-core/blob/master/DataPoint_100.PNG)
