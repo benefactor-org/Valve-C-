@@ -13,7 +13,7 @@ Valve is a simple to integrate sampling and code flow control library, which can
 
 ## Documentation
 
-```
+```c#
    String identifier = "useremail@email.com" // unique identifier per sample like user_id 
    int percentEnabled = 20; // percentage for which feature should be enabled
 
